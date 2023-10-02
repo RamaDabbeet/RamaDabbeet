@@ -8,6 +8,8 @@ I'm a data Geek 📊  Lately, I've fallen head over heels for Python 🐍, leavi
 
 🌟  Although I started with JavaScript (you can see it in my earlier projects), it was nothing to impress you, merely the first baby steps. But data analysis stole my heart, and I found myself diving headfirst into it.
 
+📊 I also have a good experience with SQL, though not advanced. Throughout my journey in data analysis, I've written a lot of code for SQL. It's a powerful tool, and I'm always open to learning more about it and taking my skills to the next level.
+
 🚀 I'm a genuine admirer of AI. constantly exploring how AI can elevate the world of data.
 
 📈 When I'm not deeply involved with data, you'll find me passionately reading & exploring the latest in the world of technology and AI advancements. 
