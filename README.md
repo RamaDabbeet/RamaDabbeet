@@ -6,7 +6,7 @@ I’m **Rama Dabbeet**, a Business Intelligence professional passionate about **
 
 ### Skills & Focus  
 - **SQL** → querying, modeling, and preparing complex datasets  
-- **Power BI** → advanced visualization, reporting, and BI solutions  
+- **Power BI** → advanced visualisation, reporting, and BI solutions  
 - **AI in BI** → exploring predictive insights and smart automation  
 
 In addition to BI, you will also find some **JavaScript and REST API projects** here — developed during my early journey of exploring coding and expanding my technical foundation.  
