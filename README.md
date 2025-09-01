@@ -2,7 +2,7 @@
 
 Hello 👋  
 
-I’m **Rama Dabbeet**, a Business Intelligence professional passionate about **data analytics, visualisation, and AI**. I specialize in transforming raw data into actionable insights through **Power BI, and SQL**, with a strong focus on **data storytelling and decision support**.  
+I’m **Rama Dabbeet**, a Business Intelligence professional passionate about **data analytics, visualisation, and AI**. I specialise in transforming raw data into actionable insights through **Power BI, and SQL**, with a strong focus on **data storytelling and decision support**.  
 
 ### Skills & Focus  
 - **SQL** → querying, modeling, and preparing complex datasets  
