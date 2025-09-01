@@ -1,20 +1,18 @@
 # About-me
+Hello 👋
 
-👋 HI there,
+I’m Rama Dabbeet, a Business Intelligence professional passionate about data analytics, visualization, and AI. I specialize in transforming raw data into actionable insights through Power BI, SQL, and Python, with a strong focus on data storytelling and decision support.
 
-I'm a data Geek 📊  Lately, I've fallen head over heels for Python 🐍, leaving behind my JavaScript days 🌐.
+🔹 Proficient in SQL for querying, modeling, and preparing complex datasets
+🔹 Skilled in Power BI for advanced visualization, reporting, and business intelligence solutions
+🔹 Exploring the intersection of AI and BI to enable predictive insights and smarter automation
 
-🧙‍♂️ Data analysis is like solving puzzles for me. Python and Pandas have become my trusty companions on this journey (And, of course, Power BI is my little babe, always there when I need it!🤓) .
+In addition to BI, you will also find some JavaScript and REST API projects in this repository — developed during my earlier journey of exploring and strengthening my coding foundation.
 
-🌟  Although I started with JavaScript (you can see it in my earlier projects), it was nothing to impress you, merely the first baby steps. But data analysis stole my heart, and I found myself diving headfirst into it.
+🚀 My mission is to make data accessible, impactful, and future-ready, helping organisations unlock growth and efficiency through modern analytics.
 
-📊 I also have a good experience with SQL, though not advanced. Throughout my journey in data analysis, I've written a lot of code for SQL. It's a powerful tool, and I'm always open to learning more about it and taking my skills to the next level.
 
-🚀 I'm a genuine admirer of AI. constantly exploring how AI can elevate the world of data.
 
-📈 When I'm not deeply involved with data, you'll find me passionately reading & exploring the latest in the world of technology and AI advancements. I often share my insights on new technology trends on my LinkedIn profile and have recently started writing articles on the Medium platform to share knowledge and experiences with a broader audience.
-
-🤓 I'd love to connect, share our data adventures, and explore the fascinating realms of Python and AI together, genuinely!
 
 
 
