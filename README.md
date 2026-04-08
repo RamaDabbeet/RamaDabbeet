@@ -1,21 +1,15 @@
-# About Me  
+Hello 👋
 
-Hello 👋  
+I'm Rama Dabbeet, a Data & Analytics Engineer working with Power BI, DAX, SQL, Python, and Microsoft Fabric.
 
-I’m **Rama Dabbeet**, a Business Intelligence professional passionate about **data analytics, visualisation, and AI**. I specialise in transforming raw data into actionable insights through **Power BI, and SQL**, with a strong focus on **data storytelling and decision support**.  
+I spend most of my time building semantic models, writing DAX, designing data pipelines, and figuring out how to make data actually useful for the people who need it. I use AI as a development partner — I design and direct, it helps me build faster. That's how I work.
 
-### Skills & Focus  
-- **SQL** → querying, modeling, and preparing complex datasets  
-- **Power BI** → advanced visualisation, reporting, and BI solutions  
-- **AI in BI** → exploring predictive insights and smart automation  
+What I Work With
+Power BI & DAX → semantic models, reports, and everything in between
+Microsoft Fabric → lakehouses, pipelines, notebooks, and data engineering end to end
+SQL & Python → data prep, automation, and tooling
+What's Here
+Tools I've built to scratch my own itch — things like exploring semantic models and tracing measure dependencies. You'll also find some older JavaScript and API projects from when I first started learning to code.
 
-In addition to BI, you will also find some **JavaScript and REST API projects** here — developed during my early journey of exploring coding and expanding my technical foundation.  
-
-🚀 My mission is to make data **accessible, impactful, and future-ready**, helping organisations unlock growth and efficiency through modern analytics.  
-
-
-
-
-
-
+🚀 Always learning, always building.
 
